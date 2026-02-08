@@ -1,0 +1,8 @@
+{
+  "name": "XC3 - Employee Management System",
+  "description": "A modern, secure, and offline employee management dashboard with export and communication features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
